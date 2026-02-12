@@ -5,7 +5,7 @@ Loyy
 Ariel Miles (fb)
 35efe871b9ee572b68920235d10938140e59d80ae807e0e180b8f8078bbddfc2-stop
 Barmatz (dc) 5 hours key
-07a21469c333dc6ad454c9628e27aba05cf1df94f3cfe3111f206af97c1202d6
+07a21469c333dc6ad454c9628e27aba05cf1df94f3cfe3111f206af97c1202d6-stop
 Art (dc) 5 hours key
 ea146f71a778dccb-stop
 king (dc) 10 hours key
@@ -15,6 +15,6 @@ xlbxn (dc) 8 hours key
 Yuval (dc) 5 hours key
 b517d9946b0b877c98957e6fa63d2eb3533ac41ff9658ac0d68454418403e5ae-stop
 chorixs (dc) 5 hours key
-ffb28748a53d07fc72e5e1d60ee2ac9641d8d0243c4d8de0ce7784f8ee69a0a0
+ffb28748a53d07fc72e5e1d60ee2ac9641d8d0243c4d8de0ce7784f8ee69a0a0-stop
 rushishyy (dc) 5 hours key
-9593a88b4a52865878ae3340ec3f4d06d59d796ff307487624a46661c89ba399
+9593a88b4a52865878ae3340ec3f4d06d59d796ff307487624a46661c89ba399-stop
